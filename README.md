@@ -1,4 +1,4 @@
-Day-16: Single price grid component 
+Day-15:  3-column preview card components
 
 I've just completed another front-end coding challenge
 
